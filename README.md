@@ -1,0 +1,2 @@
+GAN.ipynb - Image and Mask Generation with GAN
+This notebook implements a Generative Adversarial Network (GAN) to generate synthetic RGB images and their corresponding grayscale masks. The GAN consists of a Generator (producing images and masks) and a Discriminator (distinguishing real vs. fake pairs). The generated images and masks are evaluated using a pre-trained U-Net model, achieving a Mean Dice Coefficient of 0.7534 and Mean IoU of 0.6190.
