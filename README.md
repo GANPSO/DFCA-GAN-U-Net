@@ -1,7 +1,7 @@
 _If you use this code, please cite our work:  
-[1] GANPSO, « GANPSO/DFCA-GAN-U-Net: DFCA ». Zenodo, févr. 09, 2025. doi: 10.5281/zenodo.14841534._
+[1]GANPSO, « GANPSO/DFCA-GAN-U-Net: 1.0.0 ». Zenodo, févr. 14, 2025. doi: 10.5281/zenodo.14870291._
 
-Link: https://doi.org/10.5281/zenodo.14841534
+Link: https://doi.org/10.5281/zenodo.14870291
 
 **GAN.ipynb - _Image and Mask Generation with GAN_**
 This notebook implements a Generative Adversarial Network (GAN) to generate synthetic images and their corresponding masks. The GAN comprises a Generator (producing images and masks) and a Discriminator (distinguishing real vs. fake pairs). The generated images and masks are evaluated using a pre-trained U-Net model, achieving a Mean Dice Coefficient of 0.7534 and a Mean IoU of 0.6190.
