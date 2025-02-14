@@ -26,5 +26,7 @@ This notebook implements a U-Net model for image segmentation, trained on the IS
  
  -Achieves a Mean Dice Coefficient of 0.9010 and Mean IoU of 0.8323.
 
+**Best_generated_images_and_masks.rar** This archive contains 724 ynthetic image-mask pairs generated using DFCA-GAN. These were selected based on Mean Dice > 0.90 and Mean IoU > 0.97, ensuring high segmentation accuracy.
+
 
 
