@@ -1,5 +1,6 @@
 _If you use this code, please cite our work:  
 [1] GANPSO, « GANPSO/DFCA-GAN-U-Net: DFCA ». Zenodo, févr. 09, 2025. doi: 10.5281/zenodo.14841534._
+
 Link: https://doi.org/10.5281/zenodo.14841534
 
 **GAN.ipynb - _Image and Mask Generation with GAN_**
